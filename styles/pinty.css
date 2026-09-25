@@ -1,0 +1,604 @@
+:root {
+  --pinty-navy: #071332;
+  --pinty-blue: #5f7fea;
+  --pinty-pink: #ff7bf2;
+  --pinty-lime: #d9ff70;
+  --pinty-surface: #f6f7fb;
+}
+
+.pinty-tagline {
+  margin-top: clamp(30px, 4vw, 56px);
+  color: var(--pinty-blue);
+  font-size: clamp(1.35rem, 2.2vw, 2.3rem);
+  line-height: 1.1;
+  font-weight: 500;
+  letter-spacing: -.035em;
+}
+
+.pinty-hero-visual {
+  overflow: hidden;
+  background: var(--pinty-lime);
+}
+
+.pinty-hero-visual img {
+  aspect-ratio: 5280 / 3348;
+  object-fit: cover;
+}
+
+.pinty-statement-lead {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, .8fr);
+  gap: clamp(36px, 7vw, 112px);
+  align-items: start;
+  margin-bottom: clamp(84px, 11vw, 160px);
+}
+
+.pinty-statement-lead p:first-child {
+  font-size: clamp(1.8rem, 3.25vw, 3.55rem);
+  line-height: 1.12;
+  letter-spacing: -.048em;
+}
+
+.pinty-statement-lead p:last-child,
+.pinty-concepts p,
+.pinty-process-copy p,
+.pinty-insights p {
+  color: var(--text-secondary);
+  font-size: clamp(1rem, 1.15vw, 1.125rem);
+  line-height: 1.68;
+}
+
+.pinty-concepts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-block: 1px solid var(--divider);
+}
+
+.pinty-concepts article {
+  min-height: 380px;
+  padding: clamp(28px, 3.5vw, 52px) clamp(24px, 3vw, 46px) clamp(32px, 4vw, 58px) 0;
+}
+
+.pinty-concepts article + article {
+  padding-left: clamp(24px, 3vw, 46px);
+  border-left: 1px solid var(--divider);
+}
+
+.pinty-concepts span,
+.pinty-goals span,
+.pinty-process span,
+.pinty-insights span,
+.pinty-feature-number {
+  color: var(--pinty-blue);
+  font-size: .75rem;
+  font-weight: 500;
+}
+
+.pinty-concepts h3 {
+  margin: clamp(54px, 7vw, 92px) 0 24px;
+  font-size: clamp(1.8rem, 3vw, 3.2rem);
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: -.05em;
+}
+
+.pinty-goals {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 1px solid var(--divider);
+}
+
+.pinty-goals article {
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr);
+  gap: clamp(18px, 3vw, 46px);
+  min-height: 230px;
+  padding: clamp(34px, 5vw, 70px) clamp(28px, 5vw, 72px) clamp(38px, 5vw, 70px) 0;
+  border-bottom: 1px solid var(--divider);
+}
+
+.pinty-goals article:nth-child(odd) {
+  border-right: 1px solid var(--divider);
+}
+
+.pinty-goals article:nth-child(even) {
+  padding-left: clamp(28px, 5vw, 72px);
+}
+
+.pinty-goals p {
+  max-width: 570px;
+  font-size: clamp(1.4rem, 2.45vw, 2.55rem);
+  line-height: 1.16;
+  letter-spacing: -.04em;
+}
+
+.pinty-process-wrap {
+  width: 100%;
+  overflow-x: auto;
+  padding-bottom: 20px;
+  scrollbar-width: thin;
+}
+
+.pinty-process {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(7, minmax(160px, 1fr));
+  min-width: 1190px;
+  padding-top: 16px;
+}
+
+.pinty-process::before {
+  content: "";
+  position: absolute;
+  top: 31px;
+  left: 1.5%;
+  right: 1.5%;
+  height: 2px;
+  background: linear-gradient(90deg, var(--pinty-pink), var(--pinty-blue), var(--pinty-lime));
+}
+
+.pinty-process article {
+  position: relative;
+  z-index: 1;
+  padding-right: 30px;
+}
+
+.pinty-process article::before {
+  content: "";
+  display: block;
+  width: 30px;
+  height: 30px;
+  margin-bottom: 32px;
+  border: 7px solid var(--background);
+  border-radius: 50%;
+  background: var(--pinty-pink);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--pinty-pink) 60%, var(--divider));
+}
+
+.pinty-process h3 {
+  max-width: 165px;
+  margin: 18px 0 0;
+  font-size: .9rem;
+  line-height: 1.45;
+  font-weight: 500;
+}
+
+.pinty-process-copy {
+  display: grid;
+  grid-template-columns: 1.2fr .8fr;
+  gap: clamp(36px, 8vw, 130px);
+  margin-top: clamp(72px, 9vw, 130px);
+  padding-top: clamp(32px, 4vw, 56px);
+  border-top: 1px solid var(--divider);
+}
+
+.pinty-process-copy p:first-child {
+  color: var(--text-primary);
+  font-size: clamp(1.35rem, 2.25vw, 2.3rem);
+  line-height: 1.35;
+  letter-spacing: -.03em;
+}
+
+.pinty-research-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  margin-bottom: clamp(88px, 11vw, 160px);
+  border: 1px solid var(--divider);
+  background: var(--divider);
+}
+
+.pinty-research-stats article {
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: clamp(30px, 4vw, 58px);
+  background: var(--background);
+}
+
+.pinty-research-stats strong {
+  font-size: clamp(4rem, 7.2vw, 7.5rem);
+  line-height: .85;
+  font-weight: 500;
+  letter-spacing: -.075em;
+}
+
+.pinty-research-stats article:first-child strong { color: var(--pinty-pink); }
+.pinty-research-stats article:nth-child(2) strong { color: var(--pinty-blue); }
+
+.pinty-research-stats p {
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.pinty-insights {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-block: 1px solid var(--divider);
+}
+
+.pinty-insights article {
+  min-height: 390px;
+  padding: clamp(30px, 4vw, 56px) clamp(24px, 3vw, 44px) clamp(34px, 4vw, 58px) 0;
+}
+
+.pinty-insights article + article {
+  padding-left: clamp(24px, 3vw, 44px);
+  border-left: 1px solid var(--divider);
+}
+
+.pinty-insights h3 {
+  margin: clamp(52px, 7vw, 94px) 0 24px;
+  font-size: clamp(1.75rem, 2.9vw, 3rem);
+  line-height: 1.02;
+  font-weight: 500;
+  letter-spacing: -.048em;
+}
+
+.pinty-ideation-gallery {
+  --pinty-ideation-gap: clamp(18px, 2.5vw, 36px);
+  width: 100%;
+  overflow: hidden;
+}
+
+.pinty-ideation-track {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+  animation: pinty-ideation-loop 64s linear infinite;
+}
+
+.pinty-ideation-set {
+  display: flex;
+  flex: none;
+  align-items: center;
+  gap: var(--pinty-ideation-gap);
+  padding-right: var(--pinty-ideation-gap);
+}
+
+.pinty-ideation-gallery figure,
+.pinty-wireframe-visual,
+.pinty-system-gallery figure {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--divider);
+  background: var(--pinty-surface);
+}
+
+.pinty-ideation-gallery img,
+.pinty-wireframe-visual img,
+.pinty-system-gallery img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+}
+
+.pinty-ideation-gallery figure {
+  flex: none;
+  height: clamp(300px, 34vw, 520px);
+}
+
+.pinty-ideation-set figure:nth-child(1) {
+  aspect-ratio: 1186 / 1215;
+}
+
+.pinty-ideation-set figure:nth-child(2) {
+  aspect-ratio: 1340 / 1262;
+}
+
+.pinty-ideation-wide {
+  aspect-ratio: 4348 / 2364;
+}
+
+.pinty-ideation-gallery:hover .pinty-ideation-track,
+.pinty-ideation-gallery:focus-within .pinty-ideation-track {
+  animation-play-state: paused;
+}
+
+@keyframes pinty-ideation-loop {
+  to { transform: translate3d(-50%, 0, 0); }
+}
+
+.pinty-wireframe-visual {
+  width: min(100%, 1120px);
+  margin-inline: auto;
+  aspect-ratio: 2020 / 2045;
+}
+
+.pinty-system-gallery {
+  --pinty-system-gap: clamp(18px, 2.5vw, 36px);
+  width: 100%;
+  overflow: hidden;
+}
+
+.pinty-system-track {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+  animation: pinty-system-loop 68s linear infinite;
+}
+
+.pinty-system-set {
+  display: flex;
+  flex: none;
+  align-items: center;
+  gap: var(--pinty-system-gap);
+  padding-right: var(--pinty-system-gap);
+}
+
+.pinty-system-gallery figure {
+  flex: none;
+  height: clamp(320px, 38vw, 560px);
+}
+
+.pinty-system-set figure:nth-child(1) {
+  aspect-ratio: 3860 / 1908;
+}
+
+.pinty-system-set figure:nth-child(2) {
+  aspect-ratio: 3528 / 1913;
+}
+
+.pinty-system-mascot {
+  aspect-ratio: 1068 / 1912;
+}
+
+.pinty-system-gallery:hover .pinty-system-track,
+.pinty-system-gallery:focus-within .pinty-system-track {
+  animation-play-state: paused;
+}
+
+@keyframes pinty-system-loop {
+  to { transform: translate3d(-50%, 0, 0); }
+}
+
+.pinty-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(60px, 8vw, 120px) clamp(24px, 4vw, 64px);
+}
+
+.pinty-feature-grid-empty {
+  min-height: clamp(300px, 35vw, 520px);
+  border-block: 1px solid var(--divider);
+  background: linear-gradient(135deg, color-mix(in srgb, var(--pinty-pink) 4%, white), color-mix(in srgb, var(--pinty-lime) 7%, white));
+}
+
+.pinty-feature-visual {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: clamp(320px, 34vw, 500px);
+}
+
+.pinty-feature-visual img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+  object-position: center bottom;
+}
+
+.pinty-feature-copy {
+  margin-top: 0;
+  padding-top: clamp(22px, 2.5vw, 36px);
+  border-top: 1px solid var(--divider);
+}
+
+.pinty-feature-heading {
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr);
+  gap: 16px;
+  align-items: baseline;
+}
+
+.pinty-feature h3 {
+  margin: 0;
+  font-size: clamp(2rem, 3.2vw, 3.3rem);
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: -.05em;
+}
+
+.pinty-feature-copy p {
+  margin: clamp(22px, 2.5vw, 34px) 0 0 58px;
+  color: var(--text-secondary);
+  font-size: clamp(1rem, 1.15vw, 1.125rem);
+  line-height: 1.66;
+}
+
+.pinty-prototype-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(38px, 7vw, 112px);
+}
+
+.pinty-prototype-section {
+  background: #eafdb5;
+  box-shadow: 0 0 0 100vmax #eafdb5;
+  clip-path: inset(0 -100vmax);
+}
+
+.pinty-prototype-section > .section-intro {
+  position: relative;
+  text-align: center;
+}
+
+.pinty-prototype-section > .section-intro .section-number {
+  position: absolute;
+  top: .65em;
+  left: 0;
+}
+
+.pinty-prototype-section > .section-intro .section-title h2 {
+  max-width: none;
+  text-align: center;
+}
+
+.pinty-prototype-grid article {
+  padding-top: 24px;
+  border-top: 1px solid color-mix(in srgb, var(--pinty-navy) 24%, transparent);
+}
+
+.pinty-prototype-heading {
+  position: relative;
+  display: block;
+  text-align: center;
+}
+
+.pinty-prototype-heading span {
+  position: absolute;
+  top: .65em;
+  left: 0;
+  color: var(--pinty-blue);
+  font-size: .75rem;
+  font-weight: 500;
+}
+
+.pinty-prototype-grid h3 {
+  margin: 0;
+  text-align: center;
+  font-size: clamp(2rem, 3.4vw, 3.6rem);
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: -.05em;
+}
+
+.pinty-qr-link,
+.pinty-qr-slot {
+  width: clamp(190px, 19vw, 270px);
+  aspect-ratio: 1;
+  margin: clamp(42px, 6vw, 78px) auto 0;
+  background: #fff;
+}
+
+.pinty-qr-link {
+  display: block;
+  padding: clamp(10px, 1.2vw, 16px);
+}
+
+.pinty-qr-link img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+}
+
+.pinty-qr-link:focus-visible {
+  outline: 2px solid var(--pinty-navy);
+  outline-offset: 6px;
+}
+
+@media (max-width: 900px) {
+  .pinty-concepts,
+  .pinty-insights {
+    grid-template-columns: 1fr;
+  }
+
+  .pinty-concepts article,
+  .pinty-insights article {
+    min-height: 0;
+    padding: 34px 0 48px;
+  }
+
+  .pinty-concepts article + article,
+  .pinty-insights article + article {
+    padding-left: 0;
+    border-top: 1px solid var(--divider);
+    border-left: 0;
+  }
+
+  .pinty-concepts h3,
+  .pinty-insights h3 {
+    margin-top: 42px;
+  }
+
+  .pinty-feature-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+}
+
+@media (max-width: 640px) {
+  .pinty-statement-lead,
+  .pinty-goals,
+  .pinty-process-copy,
+  .pinty-research-stats,
+  .pinty-ideation-gallery,
+  .pinty-feature-grid,
+  .pinty-prototype-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pinty-statement-lead { gap: 30px; }
+
+  .pinty-goals article,
+  .pinty-goals article:nth-child(even) {
+    min-height: 0;
+    padding: 32px 0 42px;
+    border-right: 0;
+  }
+
+  .pinty-research-stats article { min-height: 230px; }
+
+  .pinty-feature-visual { height: min(125vw, 520px); }
+
+  .pinty-prototype-grid { gap: 76px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pinty-ideation-gallery,
+  .pinty-system-gallery {
+    overflow-x: auto;
+  }
+
+  .pinty-ideation-track,
+  .pinty-system-track {
+    animation: none;
+    will-change: auto;
+  }
+
+  .pinty-ideation-set[aria-hidden="true"],
+  .pinty-system-set[aria-hidden="true"] {
+    display: none;
+  }
+}
+
+/* Shared portfolio typography roles */
+.pinty-tagline,
+.pinty-insights p,
+.pinty-research-stats p,
+.pinty-feature-copy p {
+  font-size: var(--type-body);
+  line-height: 1.65;
+}
+
+.pinty-statement-lead p:first-child,
+.pinty-goals p,
+.pinty-process-copy p:first-child {
+  font-size: var(--type-lead);
+  line-height: 1.25;
+  font-weight: 400;
+}
+
+.pinty-research-stats strong {
+  font-size: var(--type-page-h1);
+  line-height: .9;
+}
+
+.pinty-concepts h3,
+.pinty-insights h3,
+.pinty-feature h3,
+.pinty-prototype-grid h3 {
+  font-size: var(--type-feature-heading);
+  line-height: 1.08;
+  font-weight: 500;
+}
+
+.pinty-feature-number,
+.pinty-prototype-heading span {
+  font-size: var(--type-label);
+  line-height: 1.5;
+}
