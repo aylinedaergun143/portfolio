@@ -1,0 +1,611 @@
+
+===== PAGE 1 =====
+Stit ch
+A Saf e Pr oduct Ser vice Syst em f or 
+Skill Ex change Based T ra v el Experiences
+A  pr oduct servic e s y st em enabling sa f e tr a v el e xperienc es
+thr ough v alue and skill e x chang e opportunities, bridging the
+gap be tw een locals and tr a v eler s  
+ID 402 - Graduation Pr oject - 14 W eeks- 2026 June
+Individual Pr oject in Collaboration wit h
+
+===== PAGE 2 =====
+P r oj e c t Stat eme n t
+Stit ch is a pr oduct -ser vice syst em t hat cr eat es a 
+saf e and gamified int eraction en vir onment, 
+building bridges betw een tr a v elers and locals 
+t hr ough oppor tunities f or v alue and skill 
+e x changes.
+
+As t he application is used, a netw ork is w o v en 
+betw een t he places visit ed b y users t hr ough t he 
+spider mascot “Stit ch.
+9 :4 1
+ My W e b
+My Charm My Nests
+See ho w  y our w eb is gr o w ing 
+w ith y our char m  y ou shar ed !
+Explor e Ga th er My  W e bHom e
+Cantabria,Spain 
+Syst em Diagr am
+This pr oduct -ser vice syst em prioritiz es user saf ety t hr oughout all stages of t he journe y , b y int egrating 
+emer gency stak eholders and saf ety pr ecautions
+9 :4 1
+Gather
+Gr oup Gathering f or Digital Nomads!
+Y ou c an join us in the big gr oup gathering
+ in Santan der
+Cantabria,Spain 
+23-27 April See Details
+Requests
+My 
+Messages Communit y
+B uddies 
+L u k as T i b ia L u k as T i b ia
+23-27 April 23-27 April
+Cantabria,Spain Cantabria,Spain 
+T r a v el  Buddy T r a v el  Buddy
+Gr oup s
+Digital Nomads Digital Nomads
+3 8  M e m ber s 3 8  M e m ber s
+B iarrit z,  F r an c e B iarrit z,  F r an c e 
+Gr oup Gr oup
+Hom e Explor e Gather My  W eb
+My Charm
+Y ou R ita P er e z
+Y our Re c e nt K n od
+Rita P er e z
+C antabria ,  Spai n
+Ex changed in 3 0.4 . 2 6
+J ourn e y of y our B adge
+T his list sho w s ho w  y our fi r st badge is n o w  
+tr a v eling an d gr o w ing y our w eb
+See Details
+See Details
+See Details
+Hom e Explor e Ga th er My  W e b
+See A ll 
+23My K n ods
+P eople I  
+tied w ith
+2My Nests
+C ountries I  
+v isit ed
+3My paths
+Ex hange an d 
+e x perie n c es
+K arina U rtiale z
+B ilbao ,  Spain  
+2 4 .4 -3 0.4
+Car ol L isa
+B ilbao ,  Spain  
+22 .4 -2 4 .4
+Car ol L isa
+B ilbao ,  Spain  
+2 4 .4 -3 0.4
+Each user is accompanied b y a tw o-par t 
+badge; 
+
+1-One par t contains a Bluet oot h tr acking 
+de vice and r emains wit h t he user(hear t 
+shaped)
+
+2-while t he ot her (badge) is e x changed 
+wit h people t he y connect wit h,  enabling 
+t he netw ork t o e xpand.
+
+===== PAGE 3 =====
+Pr ocess and R esear ch
+It has been a 14 w eek graduation pr oject, in collaboration wit h softwar e-t ech firm Commencis,
+ wit h 3 advisors including 2 UX and 1 UI designer
+Project 
+Description & 
+Research
+U ser Research ,  
+Su r v e y s
+Id eation Personas ,  
+J o u rne y  M aps ,  
+S cenarios
+I n f o .  A rchitect u re , 
+W ire f ra m es
+UI  Desi gn
+Desi g n Sy ste m
+Protot y pin g & 
+V i d eo M a k in g
+R esear ch Insight s
+It was implement ed a sur v e y and int er views wit h in t otal of 25 people. And k e y point s w er e det ermined 
+F rictionless & P ersonaliz ed Mat ching: The 
+fr ame w ork prioritiz es user -centric filt ering,  map-
+based disco v er y, and f ast application flo ws t o 
+seamlessly connect tr a v elers wit h host 
+or ganizations and shor t -t erm micr o-contributions.
+
+Hyper -Local & Continuous Community: 
+t he syst em f ost ers aut hentic local 
+immersion ( guided e xperiences, local 
+e v ent s) while sustaining tr a v eler 
+connections bef or e,  during,  and aft er 
+pr oject s.
+Ideation
+Man y ideation met hods w er e implement ed including asking 5W1H, affinity mapping , constraint, objectiv e 
+and dir ectiv e maps, defining pain point s in or der t o r efine t he pr oject description, det ermining main 
+structur e.
+
+===== PAGE 4 =====
+Pr oduct De v elopment
+High Fidelit y W ir efr am es 
+9 :4 1
+Skip
+Stit ch y our w eb b y collec ting 
+memories, badges and 
+e xplor ations
+Continue 
+9 :4 1
+Skip
+T ie ne w knods in y our w eb b y 
+connec ting tr a v eler s,locals 
+and communities
+Continue
+Initial Happ y P ath Flo w
+S e e s  a  P e r s o n a l i z e d  
+d a s h b o a r d
+F o l l o w s  p e r s o n a l  
+G u i d a n c e
+F i l l s  t h e  p r o f i l e ,  c o m p l e t e s  
+v e r i f i c a t i o n  a n d  g e t s  a  m e m b e r s h i p
+F i n i s h e s  t h e  o n b o a r d i n g  a n d  
+f i r s t  c u s t o m i z a t i o n
+C h a r m  E x c h a n g e
+L e a v e s  f e e d b a c k
+G e t s  a c c e p t e d  a n d  u s e s  t h e  p r e -
+a r r i v a l  i n f o r m a t i o n  a n d  s a f e t y  
+c h e c k s
+E x p l o r e s  t h e  a p p  a n d  f i n d s  
+a n  e x c h a n g e
+
+===== PAGE 5 =====
+UI Design Syst em 
+Color Syst em 
+Cor e Colors Faint Colors
+T ypef ace
+Manr ope Aa Bb Cc Dd Ee Ff Gg
+Hh Jj Kk Ll Mm Nn Oo
+Pp Rr Ss Tt Uu V v Y y 
+Zz W w Xx
+1234567890
+?.,_%&+/()=!
+Bold / / 2 4p x
+Bold / / 20p x
+Se mibold  / /  18p x
+Se mibold/ /  16p x
+R e gul ar / /  16 p x
+Se mibold  / /  14p x
+R e gul ar / /  14 p x
+Medium  / /  12p x
+Neutral Palett e
+T i tle Sect i on 
+T i tle Sub sect i on
+He ad i ng
+Body  Lar ge  Bold
+B o dy  L ar g e D e f a ult
+Small  Body  Bold
+Sm a ll  b o dy  
+T ag
+primar y cont ent s secondar y 
+cont ent
+additional  additional cont ent t er tiar y primar y neutral 
+secondar y 
+neutral 
+bor der str ong t er tiar y neutral
+Semantic Colors-Success
+back gr ound bor der light whit e
+Semantic Colors-Err or
+Icon Set
+Butt on Set
+Pr i mar y Bu tt on
+Sec on dar y Bu tt on
+Med i umLar ge
+Pr i mar y Sec on dar y 
+Small  
+Sec on dar y Neutr al
+Na vigation Bar
+E xp lor eHo m e Gather
+T ertiar y
+M y  W e b
+Car d Component s
+Cont gr atualtions!
+Y ou contr olled t he checklist!
+Y ou can r each t he list an ytime 
+y ou lik e !
+My Act i v e Ex change
+Y ou applied f or y our fir s t 
+e x change!
+Y ou  can  k eep  contac t  with  y our  
+hos t  and  f ollo w  ins truc tions  in  My  
+R ecent  P ath!
+My Rec e nt P ath
+R ita  P er e z
+C an t a b r i a ,  S pa in
+E x ch an g e d  i n 30. 4 .2 6
+S pan ish  C ultu r a l  
+E x ch an g e
+e x ch a n ge
+L an gu a g e - b a s e d
+Cantabria,Spain  
+N e w
+A t  l e a s t  1  w ee k
+D oes  the  loc atio n  a n d  ac c omm odatio n  
+mat ch  the  descriptio n s  pr o v ided  i n  the  
+pr o j ect  path ?"
+Y es N o
+Saf et y  Choic es
+This  is  y o u r s e tti n g s  t o 
+y o u r s a f e s t  j o u rn e y s!
+Set  T ogether
+Stit ch
+E m er ge n c y  Chec k
+Is  t h er e an e m er g e n c y  c a s e ?
+Y es
+E m er ge n c y  Sit u atio n
+D o y o u  n ee d  h e l p ? 
+L e t ’ s  s o l v e t o g e t h er !
+No
+00:30
+Mascot Design
+
+===== PAGE 6 =====
+Mobile App Design and F eatur es
+9 :4 19 :4 1
+Hello A y l in ,  
+W elc om e t o S t i t ch !
+S tart er G uid a n c e
+D o n ’ t f o r get di v e her e  
+be f o r e y o u start !
+Get S tart e d
+My  
+Cu rr e n t 
+P aths
+Ti e a 
+K n o d
+S tart 
+N e w
+S a f et y
+& N ee d s
+Em er g e n c y  Si t u at i o n
+D o  y o u n eed help ? 
+Let ’ s s o l v e t o gether !
+F or y o u
+R ec omm e n d e d  Ex cha ng es
+F in d  Y o u r D r e am J o u r n e y
+Y o u c an g o  e xpl o r e an d 
+fi n d y o ur dr e a m  jo urn e y !
+Go Explor e
+Explor e
+S t i t ch
+Y o u ’ r e c lo se t o y o u r d est in at i o n!
+D id y o u arri v e at y o ur destinati o n ?
+Y e s N o t  y e t
+Skill-Ex changes Loc al Imm er sion Lang u age &Cu lt u r e
+Spanish Cultur al 
+Ex change
+Highly-r at ed ho st
+Language-based
+Ne w
+Cantabria,Spain 
+A t le ast 1 w eek
+Spanish Cultur al 
+Ex change Experie n c es
+Highly-r at ed ho st
+Language-based
+Ne w A t le ast 1 w eek
+Cantabria,Spain 
+Y ou applied f or y our fir s t 
+e x change!
+Y ou  can  k eep  contac t  with  y our  
+hos t  and  f ollo w  ins truc tions  in  My  
+R ecent  P ath!
+Highly r at ed loc ation
+Language-based
+My  R e c e nt  P ath Ne w
+Cantabria,Spain 
+A t le ast 1 w eek
+Spanish Cultur al 
+Ex change Experie n c es
+Highly-r at ed
+Language-based
+Spanish Cultur al 
+Ex change Experie n c es
+A t le ast 1 w eek
+Ne w Ne w
+Spanish Cultur e Ex change
+A t le ast 1 w eek
+Spanish Cultur e Ex change
+H o m eCantabria,Spain Explor e G ather Cantabria,Spain M y W e b G ather Cantabria,Spain 
+A t le ast 1 w eek
+M y W e bHom e Explor e Ne w
+Hom e
+R ec omm e n d e d  Exper i e n c es
+Explor e Experie n c es
+A star t er guidance w elcomes t he user 
+and curr ent journe ys, connecting wit h 
+ot her tra v elers, hosting and saf ety 
+details can easily be accessed. P op u lar D est in at i o n s
+Spanish Cultur e Ex change
+Cantabria,Spain 
+A t le ast 1 w eek
+Ne w
+Spanish Cultur e Ex change
+Cantabria,Spain 
+A t le ast 1 w eek
+Ne w
+This f eatur e helps y ou t o e xplor e man y 
+skill-e x changes, e xperiences or 
+inf ormation y ou need
+Ug anda T an z ania S ri  L ank a Ug anda T an z ania
+9 :4 1
+Gather
+Gr o u p Gather ing  f or Digi tal N oma d s !
+Y o u c an jo in us in the big gr o up gatherin g
+ in Santan der
+Cantabria,Spain 
+S ee D eta i ls23-27  April
+R e qu ests
+B uddi es 
+T r a v el Bu ddy
+Hom e
+My  
+M essa g es C omm uni t y
+Luk as Tibi a
+23-27  April
+Cantabria,Spain 
+T r a v el Bu ddy
+38  M e m ber s
+B iarrit z,  F r an c e 
+G r o u p
+Explor e M y W e bGath er
+D ar iu sh N ash i r
+Cast elleria ,  Spain
+Gr o u p s
+Digi tal N oma d s
+4 . 3
+Gather
+Wit h t he gat her section, y ou can find 
+tra v el buddies, local guides, gr oups in 
+or der t o find accompan y in y our journe ys
+9 :4 1
+My  R ec e n t P aths
+A s P art i c i pa n t A s Ho st 
+Cantabria,Spain 
+Luk as Tibi a
+23-27  April
+Cantabria,Spain 
+T r a v el Bu ddy
+Digi tal N oma d s
+38  M e m ber s
+S pa ni sh Cu lt u r al Ex cha ng e
+A ppl i c a n ts 
+Did  y o u  arr i v e sa f el y  t o y o u r d est in at i o n ?Luk as Tibi a
+2 5 ,  Stude nt Y es N o
+P e n ding
+K ar in a S tar k
+2 5 ,  Stude nt
+P e n ding
+A ppl i c a n ts 
+C a i tl yn  S t o n e
+2 5 ,  Stude nt
+C o n tact
+2 4 .04 -2 9 .04 |   Cast ell o  U r di j as ,  Spain
+B iarrit z,  F r an c e N ot e F r om the A ppl i c a n t
+G r o u p I  w o uld be v er y  happ y  t o  bec om e a part o f  this 
+be auti f ul e x change in o r der t o  i m pr o v e m y  language 
+skills ,
+A c c e p t R e j e ct
+A ppr o v ed
+Bec om e Ho st
+Y ou can also become a host, star t 
+e x change and e xperiences, clearly view 
+y ou par ticipant s and jorune ys
+9 :4 1
+ My  W e b
+S ee A ll 
+C o untries I  
+v isit ed
+My  C harm
+See h o w y o ur w eb is gr o wing 
+with y o ur char m  y o u shar ed !
+My  N ests
+Hom e Explor e G ather My  W e b
+My W eb
+Y ou stit ch a w eb as y ou get activ e in 
+t he app b y tra v eling, meeting people 
+and tying knods
+23My  K n o d s
+P e o ple I  
+tied with
+2My  N ests
+3My  paths
+Exhange an d 
+e xperie n c es
+My  C harm
+Y o u R ita P er e z
+Y o u r R ec e n t K n o d
+Ri ta P er e z
+Cantabria ,  Spai n
+Ex changed in 3 0.4 . 2 6
+J o u r n e y  o f  y o u r Ba dg e
+T his list sh o w s h o w y o ur fi r st badge is n o w 
+tr a v eling an d gr o wing y o ur w eb
+K ar in a U rt i ale z
+B ilba o ,  Spain  
+2 4 .4 -3 0.4
+C ar ol Li sa
+B ilba o ,  Spain  
+22 .4 -2 4 .4
+C ar ol Li sa
+B ilba o ,  Spain  
+2 4 .4 -3 0.4 S ee D eta i ls
+My  C ha r m  
+Hom e Explor e G ather My  W e b
+My Charm
+T he badge o n y o ur char m  c an be 
+e x changable ,  c o nn ecting y o u with o ther 
+pe o ple as w ell as gr o wing y o ur w eb .
+S ee D eta i ls
+N e w  K nod T ied and B adge is 
+E x changed
+S ee D eta i ls
+Y ou  can  also  track  y our  
+e x chan g ed  b ad g e  thr ou g h  m y  
+char m !
+
+===== PAGE 7 =====
+T echnical Details of Bluet oot h T r ack er
+Or t hographic View Exploded View
+T op V ie w 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12Fr ont V ie w
+F e male Slot Siz e Male partSection V ie w
+NO P art Nam e 
+1 Button c ap
+2 Button PCB
+3 T actile Swit ch
+4 Cust omiz able badge
+5 RFID T ag
+6 Badge Holder Ring
+7 T op Co v er
+8 Main PCB
+9 Batter holder
+10 Batter y
+11 Buzz er
+12 Bottom Co v er
+Section Clo se Up
+Bluet oot h T r ack er Design and F etaur es
+The Charm The Badge
+Charm is a physic al ac c ompan y f or the 
+tr a v eler in c luding a bluet ooth tr ac k er an d 
+an e x changable badge ,  tr ans f erring the 
+f eeling o f  e x change an d c onn ections int o 
+the r e al w orld .
+Main F eatur es and Use Cases
+D et ect s location change or 
+rapid mo v ement s
+Bluet oot h T r ack er C ust o m i z a b le Badge 
+The user f orms t he charm 
+t hemsel v es
+Em er genc y  Butt on
+The b utt on on t he charm 
+f unctions as a emer genc y  
+help b utt on
+E asil y  A ttacha b le
+Could b e attached easil y  on 
+b ac k pac k s ,  b ags et c . The b adge continues it s 
+o wn j ourne y
+Ex changa b le 
+Badge
+
+===== PAGE 8 =====
+Sc e nario s
+M ain U sage Case
+Y ou applied f or y our fir s t 
+e x change!
+Y ou  can  k eep  contac t  with  y our  
+hos t  and  f ollo w  ins truc tions  in  My  
+R ecent  P ath!
+My  Rec e nt  P ath
+Disco v er y
+Scr olls t hr ough Instagram, sees 
+and ad and do wnloads t he app
+Star t er Guidance
+Fills pr ofile f or cust omiz ation, 
+passes v erific ation choo ses 
+m e mber ship .
+F orming t he Charm 
+F orms t he charm in t he 
+cust omization scr een
+The Charm 
+R eceiv es t he charm and 
+places on t he backpack
+Applies f or an e x change
+and bot h sides can check 
+pr e-arriv al checklist
+Host r e views and accept s 
+t he par ticipant s
+Application Appr o v al b y Host Pr e-Arriv al Checklist
+The list of t hings t o bring 
+or check bef or e journe y
+Stit ch
+Y ou’r e  c lo se  t o  y our  destination!
+Did  y ou  arriv e  at  y our  destination?
+Y e s No t  y et
+Y ou applied f or y our fir s t 
+e x change!
+Y ou  can  k eep  contac t  with  y our  
+hos t  and  f ollo w  ins truc tions  in  My  
+R ecent  P ath!
+My  Rec e nt  P ath
+Ne w Knod T ied and Badge is 
+Ex changed
+Y ou  can  also  track  y our  
+e x changed  badge  thr ough  m y  
+char m!
+My  Charm  
+Badge Ex change
+When t he e x change ends, 
+t he y tie knods b y e x changing 
+badges
+ W eb Gr o ws
+The w eb gr o ws b y 
+e v er y activity in t he app
+P ost Journe y F eedback
+The app send f eedback sur v e y t o bot h 
+sides t o complet e t he journe y
+My  Charm  
+New Ex change Happens
+The person she tied knod 
+wit h, giv es her badge t o new 
+person
+The badge 
+continues journe y
+Bot h W ebs Gr o w
+Ne w Knod T ied and Badge is 
+Ex changed
+Y ou  can  also  track  y our  
+e x changed  badge  thr ough  m y  
+char m!
+Arriv al Saf ety Check
+The syst em mak es a 
+contr ol when t he tra v eler 
+arriv es
+As her first badge continues 
+t he journe y ,journe y is sa v ed
+The r eceiv er and t he 
+o wner bot h gr o ws t heir 
+w eb
+Emer gency Case
+Setting Saf ety Choices
+Set s saf ety contact s and 
+emer gency stak eholder
+Emer gency case 
+She c lic k s the ba dg e on her char m
+an d  app d et ects the e m er g e n c y
+L iv e Notification 
+She can ’ t r each her phone, 
+but t he location is det ect ed 
+and shar ed
+Saf e Contact s ar e R eached
+She r ecie v es help immediat ely b y 
+r eaching out t o police or saf e contat ct
+
+===== PAGE 9 =====
+Project Advisor: 
+Stitch
+Video Prototype
